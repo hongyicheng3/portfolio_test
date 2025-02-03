@@ -1,7 +1,6 @@
 ---
 layout: default
-lang: es
-description: Descripción en español
+description: description_es
 ---
 
 > ##### [See the page in English](./index.md)
