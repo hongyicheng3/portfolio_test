@@ -1,7 +1,6 @@
 ---
 layout: default
-lang: en
-description: English description
+description: description_en
 ---
 > ##### [Ver la página en español](./indexes.html)
 
