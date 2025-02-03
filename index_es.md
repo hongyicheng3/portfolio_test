@@ -4,7 +4,7 @@ lang: es
 description: Descripción en español
 ---
 
-> ##### [See the page in English](./)
+> ##### [See the page in English](./index)
 
 
 poisHPFQPW
