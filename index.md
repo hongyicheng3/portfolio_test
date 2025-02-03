@@ -3,6 +3,6 @@ layout: default
 lang: en
 description: English description
 ---
-> ##### [Ver la página en español](./index_es.html)
+> ##### [Ver la página en español](./index_es.md)
 
 asdhjfqwjepoq
